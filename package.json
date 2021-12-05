@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pguduguntla/twitter-bot-test.git"
+    "url": "https://github.com/gitalvininfo/twitter-bot-media"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pguduguntla/twitter-bot-test/issues"
-  },
-  "homepage": "https://github.com/pguduguntla/twitter-bot-test#readme",
+  "homepage": "https://github.com/gitalvininfo/twitter-bot-media",
   "dependencies": {
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
